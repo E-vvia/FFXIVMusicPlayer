@@ -1,0 +1,13 @@
+{
+    "Author": "Evia",
+    "Name": "Music Player",
+    "Punchline": "A simple in-game music player.",
+    "Description": "A simple in-game music player for those who still like to download music.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/E-vvia/FFXIVMusicPlayer",
+
+    "Tags": [
+        "music",
+        "plugin"
+    ]
+}
